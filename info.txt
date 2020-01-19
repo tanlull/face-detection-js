@@ -1,0 +1,3 @@
+Youtube : https://www.youtube.com/watch?v=YeQMb-ijbI0&t=2s
+Github : https://github.com/justadudewhohacks/face-api.js/
+
